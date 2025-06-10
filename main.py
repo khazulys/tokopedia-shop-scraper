@@ -168,5 +168,5 @@ class TokopediaShopScraper:
 
 
 if __name__ == "__main__":
-    scraper = TokopediaShopScraper(input("Masukkan nama toko: "))
+    scraper = TokopediaShopScraper(input("Masukkan username toko: "))
     scraper.run()
